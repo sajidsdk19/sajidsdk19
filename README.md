@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Sajid , Co Founder of TechScape and  Top Rated Web and Game Developer🚀</div>  
+### <div align="center">I'm Sajid ,<br> Co Founder of TechScape and  Top Rated Web and Game Developer🚀</div>  
   
 
 - 🔭 I’m currently available on [Upwork](https://www.upwork.com/freelancers/~01b601ef7db73a200f)🔝  
