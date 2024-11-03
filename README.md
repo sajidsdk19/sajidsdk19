@@ -151,8 +151,6 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-<!-- Cards -->   
 
 ## My States
 
@@ -160,13 +158,13 @@
 <tr>
    <td valign="top" width="50%">
     <div align="center">  
-    <p align="center"> <img src=https://git-states.vercel.app/api?username=shamstabraiz&show_icons=true&theme=tokyonight&count-private=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage alt=shamstabraiz /> </p>
+    <p align="center"> <img src=https://git-states.vercel.app/api?username=sajidsdk19&show_icons=true&theme=tokyonight&count-private=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage alt=sajidsdk19 /> </p>
     </div>
   </td>
     <td valign="top" width="50%">
     <div align="center">  
     <p align="center">
-      <img src="https://git-states.vercel.app/api/top-langs/?username=shamstabraiz&layout=donut&theme=tokyonight" alt="shamstabraiz" />
+      <img src="https://git-states.vercel.app/api/top-langs/?username=sajisdk19&layout=donut&theme=tokyonight" alt="sajisdk19" />
     </p>
     </div>
   </td>
@@ -178,7 +176,7 @@
 <td valign="top" width="100%">
     <div align="center">  
     <p align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=shamstabraiz&theme=algolia" alt="shamstabraiz" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajidsdk19&theme=algolia" alt="sajidsdk" />
     </p>
     </div>
   </td>
