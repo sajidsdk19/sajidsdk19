@@ -7,7 +7,7 @@
   
 
 
-- Co-Founded  [TechScape](https://techscape.pk) and  [SheDev] (https://shedev.pk)
+- Co-Founded  [TechScape](https://techscape.pk) and  [SheDev](https://shedev.pk)
 
 - 🔭 I’m currently available on [Upwork](https://www.upwork.com/freelancers/~01b601ef7db73a200f)🔝  
   
