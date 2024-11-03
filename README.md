@@ -116,7 +116,7 @@
 <a href="https://stackoverflow.com/users/23319879/sajid-khan" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/user/@sajidkhan874" target="_blank">
+<a href="https://www.youtube.com/channel/UCFGPgRPdEXZSTB0425DT2tQ" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
 </div>  
