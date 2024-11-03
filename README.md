@@ -1,7 +1,7 @@
 
-<h1 align="center">Hi there, I'm <a href="https://www.instagram.com/shamstabraiz81/"  target="_blank">Shams!</a> 👋</h1>
+<h1 align="center">Hi there, I'm <a href="https://www.instagram.com/shamstabraiz81/"  target="_blank">Sajid!</a> 👋</h1>
     
-<h3 align="center">A passionate full-stack developer from Hunza</h3>
+<h3 align="center">A passionate Web and Game Developer</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=shamstabraiz alt=shamstabraiz/> </p>
 <br/>
 
