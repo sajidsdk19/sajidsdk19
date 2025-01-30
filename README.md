@@ -140,7 +140,7 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=sajidsdk19&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=sajidsdk19" align="center" />
 </div>  
   
 
