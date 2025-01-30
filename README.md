@@ -176,7 +176,6 @@
 <td valign="top" width="100%">
     <div align="center">  
     <p align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajidsdk19&theme=algolia" alt="sajidsdk" />
     </p>
     </div>
   </td>
