@@ -12,7 +12,7 @@
 - 🔭 I’m currently available on [Upwork](https://www.upwork.com/freelancers/~01b601ef7db73a200f)🔝  
   
 
-- 🌱 I’m Love Unity, Ureal and I do contribute Shopify Api and WordPress Plugin Development . 
+- 🌱 I Love working on Unity and Ureal , and I do contribute to Shopify Api and WordPress Plugin Development . 
   
 
 - ❓ Ask me about anything related to Unity and Full stack  related technologies  
